@@ -1,8 +1,8 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'pyrionflax'
 
-Trans_Username          = 'trans_user_name'
+Trans_Username          = 'way_badass'
 Trans_OAUTH             = 'oauth_for_trans_user'
 
 #######################################################
@@ -10,7 +10,7 @@ Trans_OAUTH             = 'oauth_for_trans_user'
 Trans_TextColor         = 'GoldenRod'
 # Blue, Coral, DodgerBlue, SpringGreen, YellowGreen, Green, OrangeRed, Red, GoldenRod, HotPink, CadetBlue, SeaGreen, Chocolate, BlueViolet, and Firebrick
 
-lang_TransToHome        = 'ja'
+lang_TransToHome        = 'ru'
 lang_HomeToOther        = 'en'
 
 Show_ByName             = True
